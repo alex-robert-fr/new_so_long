@@ -1,0 +1,30 @@
+/* XPM */
+static char *img[] = {
+"24 24 2 1",
+"  c black",
+"O c #FFFFFF",
+"OOOOOOOOOOOOOOOOOOOOOOOO"
+"OOOOOOOOOOOOOOOOOOOOOOOO"
+"OOOOOOOOOOOOOOOOOOOOOOOO"
+"                        "
+"                        "
+"                        "
+"                        "
+"                        "
+"                        "
+"               OOOOOOOOO"
+"               OOOOOOOOO"
+"               OOOOOOOOO"
+"            OOO         "
+"            OOO         "
+"            OOO         "
+"         OOO            "
+"         OOO            "
+"         OOO            "
+"         OOO            "
+"         OOO            "
+"         OOO            "
+"         OOO            "
+"         OOO            "
+"         OOO            "
+};
